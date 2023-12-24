@@ -1,0 +1,14 @@
+C:\Users\САМАНТА\source\repos\productStore\productStore.DAL\bin\Debug\net8.0\productStore.DAL.deps.json
+C:\Users\САМАНТА\source\repos\productStore\productStore.DAL\bin\Debug\net8.0\productStore.DAL.runtimeconfig.json
+C:\Users\САМАНТА\source\repos\productStore\productStore.DAL\bin\Debug\net8.0\productStore.DAL.dll
+C:\Users\САМАНТА\source\repos\productStore\productStore.DAL\bin\Debug\net8.0\productStore.DAL.pdb
+C:\Users\САМАНТА\source\repos\productStore\productStore.DAL\obj\Debug\net8.0\productStore.DAL.csproj.AssemblyReference.cache
+C:\Users\САМАНТА\source\repos\productStore\productStore.DAL\obj\Debug\net8.0\productStore.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\САМАНТА\source\repos\productStore\productStore.DAL\obj\Debug\net8.0\productStore.DAL.AssemblyInfoInputs.cache
+C:\Users\САМАНТА\source\repos\productStore\productStore.DAL\obj\Debug\net8.0\productStore.DAL.AssemblyInfo.cs
+C:\Users\САМАНТА\source\repos\productStore\productStore.DAL\obj\Debug\net8.0\productStore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\САМАНТА\source\repos\productStore\productStore.DAL\obj\Debug\net8.0\productStore.DAL.dll
+C:\Users\САМАНТА\source\repos\productStore\productStore.DAL\obj\Debug\net8.0\refint\productStore.DAL.dll
+C:\Users\САМАНТА\source\repos\productStore\productStore.DAL\obj\Debug\net8.0\productStore.DAL.pdb
+C:\Users\САМАНТА\source\repos\productStore\productStore.DAL\obj\Debug\net8.0\productStore.DAL.genruntimeconfig.cache
+C:\Users\САМАНТА\source\repos\productStore\productStore.DAL\obj\Debug\net8.0\ref\productStore.DAL.dll

@@ -1,0 +1,17 @@
+C:\Users\САМАНТА\source\repos\productStore\productStore.BLL\obj\Debug\net8.0\productStore.BLL.csproj.AssemblyReference.cache
+C:\Users\САМАНТА\source\repos\productStore\productStore.BLL\obj\Debug\net8.0\productStore.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\САМАНТА\source\repos\productStore\productStore.BLL\obj\Debug\net8.0\productStore.BLL.AssemblyInfoInputs.cache
+C:\Users\САМАНТА\source\repos\productStore\productStore.BLL\obj\Debug\net8.0\productStore.BLL.AssemblyInfo.cs
+C:\Users\САМАНТА\source\repos\productStore\productStore.BLL\obj\Debug\net8.0\productStore.BLL.csproj.CoreCompileInputs.cache
+C:\Users\САМАНТА\source\repos\productStore\productStore.BLL\bin\Debug\net8.0\productStore.BLL.deps.json
+C:\Users\САМАНТА\source\repos\productStore\productStore.BLL\bin\Debug\net8.0\productStore.BLL.runtimeconfig.json
+C:\Users\САМАНТА\source\repos\productStore\productStore.BLL\bin\Debug\net8.0\productStore.BLL.dll
+C:\Users\САМАНТА\source\repos\productStore\productStore.BLL\bin\Debug\net8.0\productStore.BLL.pdb
+C:\Users\САМАНТА\source\repos\productStore\productStore.BLL\bin\Debug\net8.0\productStore.DAL.dll
+C:\Users\САМАНТА\source\repos\productStore\productStore.BLL\bin\Debug\net8.0\productStore.DAL.pdb
+C:\Users\САМАНТА\source\repos\productStore\productStore.BLL\obj\Debug\net8.0\productStore.BLL.csproj.CopyComplete
+C:\Users\САМАНТА\source\repos\productStore\productStore.BLL\obj\Debug\net8.0\productStore.BLL.dll
+C:\Users\САМАНТА\source\repos\productStore\productStore.BLL\obj\Debug\net8.0\refint\productStore.BLL.dll
+C:\Users\САМАНТА\source\repos\productStore\productStore.BLL\obj\Debug\net8.0\productStore.BLL.pdb
+C:\Users\САМАНТА\source\repos\productStore\productStore.BLL\obj\Debug\net8.0\productStore.BLL.genruntimeconfig.cache
+C:\Users\САМАНТА\source\repos\productStore\productStore.BLL\obj\Debug\net8.0\ref\productStore.BLL.dll
